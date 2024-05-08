@@ -33,6 +33,9 @@ public class Vizio {
            // wait.until(ExpectedConditions.visibilityOfElementLocated(By.))
             
             driver.findElementByXPath("//button[@enabled='true' and @focused='false' and @action='Open']").click();
+            driver.findElementByXPath("//button[@enabled='true' and @focused='false' and @action='Open']").click();
+            driver.findElementByXPath("//button[@enabled='true' and @focused='false' and @action='Open']").click();
+            driver.findElementByXPath("//button[@enabled='true' and @focused='false' and @action='Open']").click();
             
 
            
