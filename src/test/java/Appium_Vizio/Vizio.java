@@ -40,6 +40,14 @@ public class Vizio {
             driver.findElementByXPath("//button[@enabled='true' and @focused='false' and @action='Open']").click();
             driver.findElementByXPath("//button[@enabled='true' and @focused='false' and @action='Open']").click();
             driver.findElementByXPath("//button[@enabled='true' and @focused='false' and @action='Open']").click();
+            driver.findElementByXPath("//button[@enabled='true' and @focused='false' and @action='Open']").click();
+            driver.findElementByXPath("//button[@enabled='true' and @focused='false' and @action='Open']").click();
+            driver.findElementByXPath("//button[@enabled='true' and @focused='false' and @action='Open']").click();
+            driver.findElementByXPath("//button[@enabled='true' and @focused='false' and @action='Open']").click();
+            driver.findElementByXPath("//button[@enabled='true' and @focused='false' and @action='Open']").click();
+            driver.findElementByXPath("//button[@enabled='true' and @focused='false' and @action='Open']").click();
+            driver.findElementByXPath("//button[@enabled='true' and @focused='false' and @action='Open']").click();
+            driver.findElementByXPath("//button[@enabled='true' and @focused='false' and @action='Open']").click();
             
 
            
